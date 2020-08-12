@@ -9,21 +9,23 @@ Repositório criado para executar o seguinte teste:
 
 ## Instalação
 
-### Instalação das Gems é necessário instalar primeiro o bundler ###
-To install bundler type:
+### Para instalação das Gems primeiramente é necessário instalar o bundler ###
+para instalar o bundle:
 ```shell
 gem install bundler
 ```
 
 ##### Gems que vão ser instaladas #####
 
-Gems necessário para rodar os testes:
+Gems necessárias para rodar os testes:
 source 'https://rubygems.org'
 
+```shell
 gem 'cucumber'
 gem 'faker'
 gem 'httparty'
 gem 'rspec'
+```
 
 ### Instalação das gems ###
 Primeiro Passo entrar na pasta do projeto via cmd ou shell e instalar as gems com o comando:
