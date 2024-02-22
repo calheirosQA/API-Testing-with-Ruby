@@ -1,4 +1,4 @@
-# Teste_QA_API-VR
+# API Testing with Ruby
 Repositório criado para executar o seguinte teste:
 ```shell
 1 - Criar uma funcionalidade para consultar os dados de um endereço a partir de um CEP.
